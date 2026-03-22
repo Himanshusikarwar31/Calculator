@@ -3,7 +3,7 @@
 # Simple Calculator Script
 
 echo "Enter first number:"
-read num100
+read num10000
 
 echo "Enter second number:"
 read num4
