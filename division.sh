@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "division"
-echo "division"
+echo "divisionupdated"
+echo "divisionupdated"
