@@ -3,7 +3,11 @@
 # Simple Calculator Script
 
 echo "Enter first number:"
+<<<<<<< HEAD
 read num200
+=======
+read num2000
+>>>>>>> 7716f8c79875806483ef8f226f398018f4fb20aa
 
 echo "Enter second number:"
 read num4
