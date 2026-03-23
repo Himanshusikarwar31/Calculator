@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Test from main branch"
+echo "Test from main branchuu"
