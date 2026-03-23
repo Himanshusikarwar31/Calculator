@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Test from main branch updated.uiupdated"
+echo "Test from main branch updated.updated"
