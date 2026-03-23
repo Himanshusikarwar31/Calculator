@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Multiplicationupdatedagainn"
+echo "Multiplicationupdatedagain"
